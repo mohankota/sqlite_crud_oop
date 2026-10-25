@@ -1,0 +1,98 @@
+[
+{
+  "directory": "D:/New/sqlite_crud_oop/sqlite_crud_oop/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\sqlite_crud.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\sqlite_crud.dir\\src\\main.cpp.obj -c D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\src\\main.cpp",
+  "file": "D:/New/sqlite_crud_oop/sqlite_crud_oop/src/main.cpp",
+  "output": "CMakeFiles/sqlite_crud.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/New/sqlite_crud_oop/sqlite_crud_oop/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\sqlite_crud.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\sqlite_crud.dir\\src\\User.cpp.obj -c D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\src\\User.cpp",
+  "file": "D:/New/sqlite_crud_oop/sqlite_crud_oop/src/User.cpp",
+  "output": "CMakeFiles/sqlite_crud.dir/src/User.cpp.obj"
+},
+{
+  "directory": "D:/New/sqlite_crud_oop/sqlite_crud_oop/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\sqlite_crud.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\sqlite_crud.dir\\src\\Database.cpp.obj -c D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\src\\Database.cpp",
+  "file": "D:/New/sqlite_crud_oop/sqlite_crud_oop/src/Database.cpp",
+  "output": "CMakeFiles/sqlite_crud.dir/src/Database.cpp.obj"
+},
+{
+  "directory": "D:/New/sqlite_crud_oop/sqlite_crud_oop/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\sqlite_crud.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\sqlite_crud.dir\\src\\UserRepository.cpp.obj -c D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\src\\UserRepository.cpp",
+  "file": "D:/New/sqlite_crud_oop/sqlite_crud_oop/src/UserRepository.cpp",
+  "output": "CMakeFiles/sqlite_crud.dir/src/UserRepository.cpp.obj"
+},
+{
+  "directory": "D:/New/sqlite_crud_oop/sqlite_crud_oop/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\sqlite_crud.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\sqlite_crud.dir\\src\\Menu.cpp.obj -c D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\src\\Menu.cpp",
+  "file": "D:/New/sqlite_crud_oop/sqlite_crud_oop/src/Menu.cpp",
+  "output": "CMakeFiles/sqlite_crud.dir/src/Menu.cpp.obj"
+},
+{
+  "directory": "D:/New/sqlite_crud_oop/sqlite_crud_oop/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles\\sqlite_crud.dir\\includes_C.rsp -g -Wno-unused-parameter -o CMakeFiles\\sqlite_crud.dir\\lib\\sqlite3.c.obj -c D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\lib\\sqlite3.c",
+  "file": "D:/New/sqlite_crud_oop/sqlite_crud_oop/lib/sqlite3.c",
+  "output": "CMakeFiles/sqlite_crud.dir/lib/sqlite3.c.obj"
+},
+{
+  "directory": "D:/New/sqlite_crud_oop/sqlite_crud_oop/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\unit_tests.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\unit_tests.dir\\tests\\test_user.cpp.obj -c D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\tests\\test_user.cpp",
+  "file": "D:/New/sqlite_crud_oop/sqlite_crud_oop/tests/test_user.cpp",
+  "output": "CMakeFiles/unit_tests.dir/tests/test_user.cpp.obj"
+},
+{
+  "directory": "D:/New/sqlite_crud_oop/sqlite_crud_oop/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\unit_tests.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\unit_tests.dir\\tests\\test_user_repository.cpp.obj -c D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\tests\\test_user_repository.cpp",
+  "file": "D:/New/sqlite_crud_oop/sqlite_crud_oop/tests/test_user_repository.cpp",
+  "output": "CMakeFiles/unit_tests.dir/tests/test_user_repository.cpp.obj"
+},
+{
+  "directory": "D:/New/sqlite_crud_oop/sqlite_crud_oop/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\unit_tests.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\unit_tests.dir\\src\\User.cpp.obj -c D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\src\\User.cpp",
+  "file": "D:/New/sqlite_crud_oop/sqlite_crud_oop/src/User.cpp",
+  "output": "CMakeFiles/unit_tests.dir/src/User.cpp.obj"
+},
+{
+  "directory": "D:/New/sqlite_crud_oop/sqlite_crud_oop/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\unit_tests.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\unit_tests.dir\\src\\Database.cpp.obj -c D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\src\\Database.cpp",
+  "file": "D:/New/sqlite_crud_oop/sqlite_crud_oop/src/Database.cpp",
+  "output": "CMakeFiles/unit_tests.dir/src/Database.cpp.obj"
+},
+{
+  "directory": "D:/New/sqlite_crud_oop/sqlite_crud_oop/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\unit_tests.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\unit_tests.dir\\src\\UserRepository.cpp.obj -c D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\src\\UserRepository.cpp",
+  "file": "D:/New/sqlite_crud_oop/sqlite_crud_oop/src/UserRepository.cpp",
+  "output": "CMakeFiles/unit_tests.dir/src/UserRepository.cpp.obj"
+},
+{
+  "directory": "D:/New/sqlite_crud_oop/sqlite_crud_oop/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles\\unit_tests.dir\\includes_C.rsp -g -Wno-unused-parameter -o CMakeFiles\\unit_tests.dir\\lib\\sqlite3.c.obj -c D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\lib\\sqlite3.c",
+  "file": "D:/New/sqlite_crud_oop/sqlite_crud_oop/lib/sqlite3.c",
+  "output": "CMakeFiles/unit_tests.dir/lib/sqlite3.c.obj"
+},
+{
+  "directory": "D:/New/sqlite_crud_oop/sqlite_crud_oop/build/_deps/googletest-build/googlemock",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\gmock.dir\\includes_CXX.rsp -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "file": "D:/New/sqlite_crud_oop/sqlite_crud_oop/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj"
+},
+{
+  "directory": "D:/New/sqlite_crud_oop/sqlite_crud_oop/build/_deps/googletest-build/googlemock",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\gmock_main.dir\\includes_CXX.rsp -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "file": "D:/New/sqlite_crud_oop/sqlite_crud_oop/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj"
+},
+{
+  "directory": "D:/New/sqlite_crud_oop/sqlite_crud_oop/build/_deps/googletest-build/googletest",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\gtest.dir\\includes_CXX.rsp -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "file": "D:/New/sqlite_crud_oop/sqlite_crud_oop/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+},
+{
+  "directory": "D:/New/sqlite_crud_oop/sqlite_crud_oop/build/_deps/googletest-build/googletest",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\gtest_main.dir\\includes_CXX.rsp -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "file": "D:/New/sqlite_crud_oop/sqlite_crud_oop/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj"
+}
+]

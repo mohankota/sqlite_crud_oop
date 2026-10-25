@@ -1,0 +1,5 @@
+if(EXISTS "D:/New/sqlite_crud_oop/sqlite_crud_oop/build/unit_tests_e3b0c442_tests.cmake")
+  include("D:/New/sqlite_crud_oop/sqlite_crud_oop/build/unit_tests_e3b0c442_tests.cmake")
+else()
+  add_test(unit_tests_NOT_BUILT unit_tests_NOT_BUILT)
+endif()

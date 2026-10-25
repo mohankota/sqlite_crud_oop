@@ -1,0 +1,1 @@
+-isystem "D:/New/sqlite_crud_oop/sqlite_crud_oop/build/_deps/googletest-src/googlemock/include" -isystem "D:/New/sqlite_crud_oop/sqlite_crud_oop/build/_deps/googletest-src/googlemock" -isystem "D:/New/sqlite_crud_oop/sqlite_crud_oop/build/_deps/googletest-src/googletest/include" -isystem "D:/New/sqlite_crud_oop/sqlite_crud_oop/build/_deps/googletest-src/googletest"

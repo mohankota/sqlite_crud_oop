@@ -1,0 +1,15 @@
+UserRepositoryTest.CreateTableSucceeds 1 0.0150909
+UserRepositoryTest.DeleteNonExistent 1 0.0162988
+UserRepositoryTest.DeleteUser 1 0.0194623
+UserRepositoryTest.DuplicateEmailFails 1 0.0160193
+UserRepositoryTest.FullCrudFlow 1 0.0162006
+UserRepositoryTest.GetAllEmpty 1 0.0151361
+UserRepositoryTest.InsertMultipleUsers 1 0.0145467
+UserRepositoryTest.InsertUser 1 0.0154994
+UserRepositoryTest.UpdateNonExistent 1 0.0141976
+UserRepositoryTest.UpdateUser 1 0.0160201
+UserTest.DefaultConstructor 1 0.0140413
+UserTest.DisplayDoesNotCrash 1 0.0215328
+UserTest.ParameterizedConstructor 1 0.0123136
+UserTest.Setters 1 0.0148728
+---

@@ -1,0 +1,88 @@
+{
+  "tests": 14,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "UserRepositoryTest",
+      "tests": 10,
+      "testsuite": [
+        {
+          "name": "CreateTableSucceeds",
+          "file": "D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\tests\\test_user_repository.cpp",
+          "line": 28
+        },
+        {
+          "name": "InsertUser",
+          "file": "D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\tests\\test_user_repository.cpp",
+          "line": 35
+        },
+        {
+          "name": "InsertMultipleUsers",
+          "file": "D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\tests\\test_user_repository.cpp",
+          "line": 48
+        },
+        {
+          "name": "DuplicateEmailFails",
+          "file": "D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\tests\\test_user_repository.cpp",
+          "line": 58
+        },
+        {
+          "name": "GetAllEmpty",
+          "file": "D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\tests\\test_user_repository.cpp",
+          "line": 65
+        },
+        {
+          "name": "UpdateUser",
+          "file": "D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\tests\\test_user_repository.cpp",
+          "line": 71
+        },
+        {
+          "name": "UpdateNonExistent",
+          "file": "D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\tests\\test_user_repository.cpp",
+          "line": 88
+        },
+        {
+          "name": "DeleteUser",
+          "file": "D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\tests\\test_user_repository.cpp",
+          "line": 98
+        },
+        {
+          "name": "DeleteNonExistent",
+          "file": "D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\tests\\test_user_repository.cpp",
+          "line": 114
+        },
+        {
+          "name": "FullCrudFlow",
+          "file": "D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\tests\\test_user_repository.cpp",
+          "line": 121
+        }
+      ]
+    },
+    {
+      "name": "UserTest",
+      "tests": 4,
+      "testsuite": [
+        {
+          "name": "DefaultConstructor",
+          "file": "D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\tests\\test_user.cpp",
+          "line": 5
+        },
+        {
+          "name": "ParameterizedConstructor",
+          "file": "D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\tests\\test_user.cpp",
+          "line": 14
+        },
+        {
+          "name": "Setters",
+          "file": "D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\tests\\test_user.cpp",
+          "line": 23
+        },
+        {
+          "name": "DisplayDoesNotCrash",
+          "file": "D:\\New\\sqlite_crud_oop\\sqlite_crud_oop\\tests\\test_user.cpp",
+          "line": 37
+        }
+      ]
+    }
+  ]
+}

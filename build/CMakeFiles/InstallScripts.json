@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/New/sqlite_crud_oop/sqlite_crud_oop/build/cmake_install.cmake",
+		"D:/New/sqlite_crud_oop/sqlite_crud_oop/build/_deps/googletest-build/cmake_install.cmake",
+		"D:/New/sqlite_crud_oop/sqlite_crud_oop/build/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"D:/New/sqlite_crud_oop/sqlite_crud_oop/build/_deps/googletest-build/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
